@@ -1,5 +1,5 @@
 #string indexing
-p ="the royal live in raipur"
+p ="pradeep kumar sahu the royal live in raipur"
 print(len(p))
 
 print()
