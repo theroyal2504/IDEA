@@ -79,6 +79,6 @@ while True:
          print("the list is : =",list1)
     
     elif choose == 10:
-         break
-
+         breakq
+         
 print("exite with while loop")
